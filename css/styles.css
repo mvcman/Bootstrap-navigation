@@ -34,7 +34,7 @@ body {
   z-index: 0;
 }
 
-.navbar-dark {
+.navbar {
   background-color: #512DA8;
 }
 
@@ -54,4 +54,10 @@ ul li span {
 }
 .radio {
   margin-right: 20px;
+}
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
 }
